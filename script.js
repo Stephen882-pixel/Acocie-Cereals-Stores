@@ -7,7 +7,7 @@ const products = [
     price: "KSh 50/kg",
     description: "Premium quality white maize, perfect for ugali and porridge. Sourced directly from local farmers.",
     availability: "available",
-    image: "/placeholder.svg?height=200&width=300&text=White+Maize",
+    image: "/home/stephen/Desktop/PROJECTS/Acocie Cereals Stores/images/white_maize.jpeg",
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const products = [
     price: "KSh 80/kg",
     description: "Nutritious yellow maize rich in vitamins and minerals. Ideal for animal feed and human consumption.",
     availability: "available",
-    image: "/placeholder.svg?height=200&width=300&text=Yellow+Maize",
+    image: "/home/stephen/Desktop/PROJECTS/Acocie Cereals Stores/images/yellow_maize.jpeg",
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ const products = [
     price: "KSh 220/kg",
     description: "Aromatic Kenyan pishori rice, premium quality. Known for its unique fragrance and taste.",
     availability: "available",
-    image: "/placeholder.svg?height=200&width=300&text=Pishori+Rice",
+    image: "/home/stephen/Desktop/PROJECTS/Acocie Cereals Stores/images/pishori_ rice.jpeg",
   },
   {
     id: 4,
